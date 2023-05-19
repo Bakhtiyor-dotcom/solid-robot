@@ -1,0 +1,15 @@
+/Users/macbook13/Projects/swepper/swepper/bin/Debug/net7.0/swepper
+/Users/macbook13/Projects/swepper/swepper/bin/Debug/net7.0/swepper.deps.json
+/Users/macbook13/Projects/swepper/swepper/bin/Debug/net7.0/swepper.runtimeconfig.json
+/Users/macbook13/Projects/swepper/swepper/bin/Debug/net7.0/swepper.dll
+/Users/macbook13/Projects/swepper/swepper/bin/Debug/net7.0/swepper.pdb
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/swepper.csproj.AssemblyReference.cache
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/swepper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/swepper.AssemblyInfoInputs.cache
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/swepper.AssemblyInfo.cs
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/swepper.csproj.CoreCompileInputs.cache
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/swepper.dll
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/refint/swepper.dll
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/swepper.pdb
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/swepper.genruntimeconfig.cache
+/Users/macbook13/Projects/swepper/swepper/obj/Debug/net7.0/ref/swepper.dll
